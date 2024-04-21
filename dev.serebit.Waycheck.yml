@@ -12,8 +12,8 @@ modules:
     buildsystem: meson
     sources:
       - type: archive
-        url: https://gitlab.freedesktop.org/serebit/waycheck/-/archive/v1.2.0/waycheck-v1.2.0.tar.gz
-        sha256: 742d4d335cfdaefa5168ba64d0c44b6b4c5208e1a1c021fe747d32510856487c
+        url: https://gitlab.freedesktop.org/serebit/waycheck/-/archive/v1.2.1/waycheck-v1.2.1.tar.gz
+        sha256: 5e319fdbddd9e039bc5b1b3a4474f1a7e3fd0417154b86adf879fd38fd3d1dd1
         x-checker-data:
           type: anitya
           project-id: 369363
