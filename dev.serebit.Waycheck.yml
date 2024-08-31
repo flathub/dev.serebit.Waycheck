@@ -7,6 +7,7 @@ finish-args:
   - --socket=fallback-x11 # only shows a message dialog on X11
   - --socket=wayland
   - --device=dri
+  - --share=ipc # for X11 fallback
 modules:
   - name: waycheck
     buildsystem: meson
